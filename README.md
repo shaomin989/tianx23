@@ -6,7 +6,7 @@ tingy;uiop
 tiantian;op
 dangran,ria,yuh
 meiwent,rfd
-zhongd
+zhongd,io90
 qixijie
 dangran_7878
 zaiqx
