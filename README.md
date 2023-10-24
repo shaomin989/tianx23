@@ -2,7 +2,7 @@
 xuexi
 aazaazaxza,oio
 your hu houm
-tingy
+tingy;uiop
 tiantian;op
 dangran,ria,yuh
 meiwent,rfd
