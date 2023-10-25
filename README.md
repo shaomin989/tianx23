@@ -16,7 +16,7 @@ ttfds，晃晃悠悠
 liqi786,rtg4
 haodegf,uytt
 fengtxd.56gfr
-bixud
+bixud,rt54
 antianx
 wuguo
 luodij
